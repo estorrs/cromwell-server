@@ -10,7 +10,7 @@ Largely pulled from https://github.com/broadinstitute/cromwell/tree/develop/scri
 
 #### Starting the server and database
 
-To start
+There should be a (hopefully) persistent server running on mammoth.wusm.wustl.edu. If that server goes down for some reason, to start/restart it run the following from `/lake1/cromwell-server`
 
 ```bash
 docker-compose up --force-recreate
