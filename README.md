@@ -37,4 +37,4 @@ If the server is running on one of the dinglab cluster nodes you could also do s
 
 #### Compute1 example job config
 
-An [example job config](https://github.com/estorrs/cromwell-server/compute1) that can be submitted from compute1. 
+An [example job config](https://github.com/estorrs/wombat/blob/master/wombat/templates/cromwell-config-db.compute1.template.dat) that can be submitted from compute1. 
