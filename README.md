@@ -33,3 +33,8 @@ The cromwell server will be running on port 8000 by default. So to connect the s
 From this page you can see a description of all endpoints available.
 
 If the server is running on one of the dinglab cluster nodes you could also do something like `mammoth.wusm.wustl.edu:8000` in your browser, no port mapping required.
+
+
+#### Compute1 example job config
+
+An [example job config](https://github.com/estorrs/cromwell-server/compute1) that can be submitted from compute1. 
