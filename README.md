@@ -30,4 +30,6 @@ The default cromwell version is `78-38cd360`. If a different version of cromwell
 
 The cromwell server will be running on port 8000 by default. So to connect the simplest approach is to map that port with ssh to your local machine and connect by typing `localhost:8000` in the browser.
 
+From this page you can see a description of all endpoints available.
+
 If the server is running on one of the dinglab cluster nodes you could also do something like `mammoth.wusm.wustl.edu:8000` in your browser, no port mapping required.
