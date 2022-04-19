@@ -2,6 +2,8 @@
 
 A paired server + mysql database for running cromwell jobs
 
+This server should hopefully be persistently running at `mammoth.wusm.wustl.edu:8000`
+
 Largely pulled from https://github.com/broadinstitute/cromwell/tree/develop/scripts/docker-compose-mysql with some minor changes to update cromwell version and port mapping
 
 #### Installation
